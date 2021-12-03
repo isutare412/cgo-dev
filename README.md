@@ -1,4 +1,4 @@
-# cgo-dv
+# cgo-dev
 
 An `cgo` example repostiory using C shared library as its dependency.
 
