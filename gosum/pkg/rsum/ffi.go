@@ -2,8 +2,8 @@ package rsum
 
 /*
 
-#cgo CFLAGS: -I../../../rsum/include
-#cgo LDFLAGS: -L../../lib -lrsum -Wl,-rpath=./lib
+#cgo CFLAGS: -I${SRCDIR}/../../../rsum/include
+#cgo LDFLAGS: -L${SRCDIR}/../../lib -lrsum -Wl,-rpath=./lib
 #include "RsMath.h"
 
 */
