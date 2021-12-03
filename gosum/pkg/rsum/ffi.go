@@ -3,7 +3,7 @@ package rsum
 /*
 
 #cgo CFLAGS: -I../../../rsum/include
-#cgo LDFLAGS: -L../../lib -lrsum -Wl,-rpath=../../lib
+#cgo LDFLAGS: -L../../lib -lrsum -Wl,-rpath=./lib
 #include "RsMath.h"
 
 */
